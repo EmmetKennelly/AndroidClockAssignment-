@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment 2</string>
+    <string-array name="colourList">
+        <item>Please select a colour</item>
+        <item>Black</item>
+        <item>Grey</item>
+        <item>White</item>
+
+    </string-array>
+</resources>
